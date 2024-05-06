@@ -21,8 +21,8 @@ public class Lab083 {
 
         long a11 = 301l;
         switch ((int) a11) {
-
         }
+
 
 
     }

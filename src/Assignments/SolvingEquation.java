@@ -16,5 +16,7 @@ public class SolvingEquation {
         int z = Math.abs(num3);
         double result = Math.cbrt(x + y - z);
         System.out.println(result);
+
+        sc.close();
     }
 }
