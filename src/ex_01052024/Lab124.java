@@ -1,9 +1,8 @@
-package Assignments;
+package ex_01052024;
 
 import java.util.Scanner;
 
-public class SwitchCase {
-
+public class Lab124 {
     public static void main(String[] args) {
         // Program to perform Arithmetic Operations
         Scanner sc = new Scanner(System.in);
