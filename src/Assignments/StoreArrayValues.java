@@ -18,7 +18,7 @@ public class StoreArrayValues {
         int arr2[] = new int[arraySize];
 
         for (int i = 0; i < arraySize; i++) {
-            arr2[i] = arr1[i];
+            arr2[i] = arr1[i]*2;
         }
 
         System.out.println("Print second array Value");
