@@ -57,7 +57,4 @@ public class largestNumberInArray {
         System.out.println("Max Sal -> " + max_salary);
 
     }
-
-
-    }
 }

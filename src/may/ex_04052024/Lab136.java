@@ -22,5 +22,16 @@ public class Lab136 {
         }
         System.out.println("Max Sal -> " + max_salary);
 
+        //While loop logic
+//        int j = 0;
+//        while (j < salaries.length) {
+//            if (salaries[j] > max_salary) {
+//                max_salary = salaries[j];
+//                j++;
+//            }
+//        }
+//        System.out.println("Max Sal -> " + max_salary);
+
+
     }
 }

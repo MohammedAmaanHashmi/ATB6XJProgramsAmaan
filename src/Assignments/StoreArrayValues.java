@@ -26,6 +26,17 @@ public class StoreArrayValues {
             System.out.println(arr2[i]);
         }
 
+        //Double array's logic without scanner
+        int[] arrays = {30, 40, 50};
+        int[] arrays2 = new int[3];
+        for (int i = 0; i < arrays.length; i++) {
+            arrays2[i] = arrays[i] * 2;
+        }
+
+        for (int i = 0; i < arrays2.length; i++) {
+            System.out.println(arrays2[i]);
+        }
+
 
     }
 }
