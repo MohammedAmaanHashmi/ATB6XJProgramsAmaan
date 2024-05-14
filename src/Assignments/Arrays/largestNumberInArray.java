@@ -1,4 +1,4 @@
-package Assignments;
+package Assignments.Arrays;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;
