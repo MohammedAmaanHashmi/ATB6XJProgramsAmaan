@@ -12,6 +12,6 @@ public class Lab165 {
         //Practical Project -> course website - By OOPS Concept
         //OOPS applied in the LIVE Programs
 
-        //Static
+        //Statg
     }
 }
