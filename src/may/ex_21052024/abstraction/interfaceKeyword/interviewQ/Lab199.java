@@ -45,8 +45,13 @@ class Test5 extends A implements I1, I2 {
 
 //interface I5 extends A,B{} -Not Ok
 
-interface I6 extends I1, I2 {
-}
+interface I6 extends I1, I2 { }
 
 //interface I7 extends C { } -Not Ok
+
+
+
+
+
+
 
